@@ -19,8 +19,3 @@ This project aims to demonstrate the use of Recurrent Neural Networks (RNN) for 
 - Numpy
 - Pandas
 
-## Installation
-Clone the repository and install the required dependencies with pip:
-
-```bash
-pip install -r requirements.txt
